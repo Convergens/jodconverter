@@ -6,14 +6,14 @@
 
   <groupId>org.artofsolving.jodconverter</groupId>
   <artifactId>jodconverter-core</artifactId>
-  <version>3.0-SNAPSHOT</version>
+  <version>3.0-Beta2</version>
   <packaging>jar</packaging>
 
   <name>JODConverter - Core Library</name>
   <description>
     JODConverter converts office documents using OpenOffice.org
   </description>
-  <url>http://jodconverter.googlecode.com</url>
+  <url>https://github.com/Convergens/jodconverter</url>
   <licenses>
     <license>
       <name>GNU Lesser General Public License, Version 3 or later</name>
@@ -21,8 +21,8 @@
     </license>
   </licenses>
   <scm>
-    <url>http://jodconverter.googlecode.com/svn/trunk/jodconverter-core</url>
-    <connection>scm:svn:https://jodconverter.googlecode.com/svn/trunk/jodconverter-core/</connection>
+    <url>https://github.com/Convergens/jodconverter/jodconverter-core</url>
+    <connection>scm:git:https://github.com/Convergens/jodconverter/jodconverter-core/</connection>
   </scm>
   <inceptionYear>2003</inceptionYear>
   <developers>

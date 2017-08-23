@@ -1,12 +1,10 @@
 JODConverter
 ============
 
-This is JODConverter 3.0 beta.
+This is JODConverter 3.0 beta2.
 
 JODConverter automates conversions between office document formats
 using LibreOffice or Apache OpenOffice. 
-
-See http://jodconverter.googlecode.com for the latest documentation.
 
 Licensing
 ---------
